@@ -1,0 +1,12 @@
+/* Search bar style */
+.search{    max-width: 600px;   }
+
+/* Results style */
+#result-container{
+    margin: auto;
+    max-width: 600px;
+}
+.card-img{  max-width: 100px;   }
+
+/* Badge style */
+.badge{ font-size: 1em; }

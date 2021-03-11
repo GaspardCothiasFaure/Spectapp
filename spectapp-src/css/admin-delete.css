@@ -1,0 +1,8 @@
+/* Toast style */
+.toast-top-right {  top: 68px !important;   }
+
+/* Input style */
+select{
+    margin: auto;
+    max-width: 500px;
+}

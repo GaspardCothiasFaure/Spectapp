@@ -1,0 +1,18 @@
+/* Card style */
+/* If window width<1200px, different style for cards and searh bar */
+.card{  max-width: 49%; }
+@media(min-width:1200px){
+  .auto-complete-card{ max-width: 540px; }
+}
+@media(max-width:990px){
+  .card{  max-width: 100%;  }
+}
+.small-text{  font-size: 0.9em;}
+.badge {  font-size: 1em; }
+
+/* Stars style */
+.checked {  color: orange;  }
+
+/* Navbar (and footer) style */
+.navbar-brand{  font-weight: bold;  }
+.navbar ,.footer{  background-color: #d4350f;  }

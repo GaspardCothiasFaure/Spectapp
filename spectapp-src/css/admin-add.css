@@ -1,0 +1,14 @@
+/* Form style */
+textarea {  resize: none;   }
+a:hover {   text-decoration: none;  }
+.performance-choices{   max-width: 15rem;   }
+#imgOverview{   max-width: 50%; }
+#posterFileLabel{   overflow: hidden !important;    }
+
+/* Global page style */
+@media(min-width:1200px){
+    main{   width: 50% !important;  }
+}
+
+/* Toast style */
+.toast-top-right {  top: 68px !important;   }

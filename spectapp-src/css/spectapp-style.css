@@ -1,0 +1,13 @@
+/* CSS of the global app (except index.php) */
+
+/* Navbar (and footer) style */
+.navbar-brand{  font-weight: bold;  }
+.navbar ,.footer{  background-color: #d4350f;  }
+
+/* If window width<1200px */
+@media(min-width:1200px){
+    main{   width: 75% !important;  }
+}
+
+/* Poster display style */
+.performance-info-poster{  max-width:180px !important ; }
