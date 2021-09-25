@@ -3,13 +3,6 @@
 Spectapp is an online ticketing application to book show in a theatre.
 It has been developed for an academic project during the 3rd year of engineering school at ENSG in the TSI stream.
 
-| :warning: Your are reading the delivery-version README : The following steps will show you how to handle Spectapp on the your local server. You can follow the steps to handle Spectapp on the web on the [prod branch](https://gitlab.com/gascothiasfaure/tsi-personal-project-spectapp/-/tree/prod).|
-| --- |
-
->**Note :**
->
->The analysis report of this project (delivered on october 25th) can be found in the [analysis-report branch](https://gitlab.com/gascothiasfaure/tsi-personal-project-spectapp/-/tree/analysis-report) of this repository or you can download it [here](https://gitlab.com/gascothiasfaure/tsi-personal-project-spectapp/-/archive/analysis-report/tsi-personal-project-spectapp-analysis-report.zip).
-
 ## Install
 
 1. Download the [master branch](https://gitlab.com/gascothiasfaure/tsi-personal-project-spectapp/-/tree/master) of this repository on your computer : ([click here to download](https://gitlab.com/gascothiasfaure/tsi-personal-project-spectapp/-/archive/master/tsi-personal-project-spectapp-master.zip)).
